@@ -6,7 +6,7 @@ This repository contains code for predicting cardiovascular disease using machin
 
 Cardiovascular diseases are the leading cause of death globally. Early detection and management can significantly improve patient outcomes. This project utilizes a machine learning approach to predict the likelihood of CVD based on various health metrics. The dataset used for this project is publicly available and contains various features such as age, gender, blood pressure, cholesterol levels, and more. The dataset can be downloaded from [Kaggle](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset).
 
-##Models we implemented
+## Models we implemented
 
 - Logistic Regression
 - KNN
